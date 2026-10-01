@@ -10,3 +10,16 @@ With the Summit CLI, you can:
 - Get deliveries of annotated tasks.
 
 Please visit [kb.summit.sama.com](https://kb.summit.cloudfactory.com/reference/cli-overview) for installation, usage, and command documentation for the Summit CLI.
+
+## Installation
+
+### Homebrew (Mac/Linux)
+
+```bash
+brew tap cloudfactory/summit https://github.com/cloudfactory/summit-public
+brew install cloudfactory/summit/summit-cli
+```
+
+### Windows
+
+Download the MSI file from the [Releases](https://github.com/cloudfactory/summit-public/releases) page and install it.
